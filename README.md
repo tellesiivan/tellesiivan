@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ivan Telles</h1>
-<h3 align="center">Software Developer at Mahalo Technologies Inc</h3>
+<h3 align="center">Software Eng. at Mahalo Technologies Inc</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tellesiivan&label=Profile%20views&color=0e75b6&style=flat" alt="tellesiivan" /> </p>
 
